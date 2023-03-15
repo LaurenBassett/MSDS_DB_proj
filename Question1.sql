@@ -1,0 +1,1 @@
+SELECT courseID, name FROM msds.courses WHERE active = 1
